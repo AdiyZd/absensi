@@ -1,4 +1,4 @@
-# Nama Proyek
+# ABSENSI
 
 Deskripsi singkat tentang proyek ini, termasuk tujuan dan fungsionalitas utamanya.
 
