@@ -26,4 +26,4 @@ Langkah-langkah untuk menginstal dan menjalankan proyek ini di komputer lokal ka
  untuk bagian main.js anda perlu meruba sedikit 
  dan setelah di rubah pastikan grub dan token benar
    ```
-   git clone https://github.com/username/repository-name.git
+   https://github.com/AdiyZd/absensi.git
